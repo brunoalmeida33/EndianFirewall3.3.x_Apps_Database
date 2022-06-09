@@ -1,0 +1,22 @@
+ipset create letsencrypt hash:net
+ipset flush letsencrypt
+ipset add letsencrypt outbound1.letsencrypt.org
+ipset add letsencrypt outbound2.letsencrypt.org
+ipset add letsencrypt 3.120.130.29
+ipset add letsencrypt 52.39.4.59
+ipset add letsencrypt 18.159.196.172
+ipset add letsencrypt 3.142.122.14
+ipset add letsencrypt 34.219.87.132 
+ipset add letsencrypt 66.133.109.36
+ipset add letsencrypt 34.221.255.206
+ipset add letsencrypt 3.19.56.43
+ipset add letsencrypt 18.236.228.243
+ipset add letsencrypt 3.67.34.92
+ipset add letsencrypt 3.143.223.150
+ipset add letsencrypt 18.196.102.134
+ipset add letsencrypt 18.222.145.89
+ipset add letsencrypt 34.219.64.153
+iptables -A INPUT -t filter -p tcp -m set --match-set letsencrypt src --dport 80 -j ACCEPT
+iptables -A INPUT -t filter -p tcp -m set --match-set letsencrypt src --dport 443 -j ACCEPT
+
+

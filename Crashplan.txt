@@ -1,0 +1,24 @@
+
+CrashPlan Code42:
+
+Urls:
+	
+central.crashplanpro.com
+ame-sea.crashplan.com
+dam-msp.crashplan.com
+68.65.192.0/21
+162.222.40.0/21
+67.222.248.0/21
+50.93.246.0/23
+216.17.8.0/24
+50.93.255.0/24
+103.8.239.0/24
+149.5.44.0/24
+216.223.38.0/24
+149.5.7.0/24
+
+Portas:
+TCP/80
+TCP/443
+TCP+UDP/4282
+TCP+UDP/4287
