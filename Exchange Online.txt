@@ -1344,3 +1344,7 @@ cdn.uci.officeapps.live.com
 Portas:
 TCP/80
 TCP/443
+
+##Referencias
+https://endpoints.office.com/endpoints/worldwide?clientrequestid=b10c5ed1-bad1-445f-b386-b919946339a7
+https://docs.microsoft.com/pt-br/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide&preserve-view=true
