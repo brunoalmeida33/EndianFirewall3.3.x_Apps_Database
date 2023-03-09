@@ -1,3 +1,4 @@
+IPs:
 
 Network	Location	Addresses
 161.148.0.0/16		Servico Federal De Processamento De Dados - Serpro	  Asa Norte	65,536
@@ -21,4 +22,6 @@ Network	Location	Addresses
 189.9.216.0/21		Servico Federal De Processamento De Dados - Serpro	  Asa Norte	2,048
 189.9.228.0/22		Servico Federal De Processamento De Dados - Serpro	  Asa Norte	1,024
 
-porta assinador TCP/443
+Portas:
+
+TCP/443

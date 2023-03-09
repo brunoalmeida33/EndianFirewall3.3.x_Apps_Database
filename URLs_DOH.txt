@@ -35,3 +35,4 @@ jp.tiar.app
 use-application-dns.net
 doh.42l.fr
 dns.aa.net.uk
+

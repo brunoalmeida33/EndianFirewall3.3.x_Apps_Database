@@ -339,3 +339,4 @@ Cloudflare
 Portas:
 UDP/53
 UDP/853 (DOH)
+
