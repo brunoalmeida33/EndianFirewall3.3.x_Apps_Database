@@ -115,3 +115,7 @@ sites.google.com:443/HTTPS
 *.googlegroups.com:443/HTTPS
 ipv4.google.com:443/HTTPS
 ipv4.google.com:80/HTTP
+
+Portas:
+80/TCP
+443/TCP
