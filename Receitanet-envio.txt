@@ -1,0 +1,11 @@
+Programa de envio Receitanet
+
+IP's: 
+161.148.0.0/16
+189.9.0.0/16
+
+Portas:
+3456 TCP
+
+ASN's:
+AS10954
