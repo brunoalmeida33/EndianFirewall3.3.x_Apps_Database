@@ -1,0 +1,37 @@
+Urls:
+
+[cloud-lcs.gravityzone.bitdefender.com]
+[cloudgz-lcs.gravityzone.bitdefender.com]
+[cloudap-lcs.gravityzone.bitdefender.com]
+lv2.bitdefender.com
+cloud.gravityzone.bitdefender.com
+cloudgz.gravityzone.bitdefender.com
+cloudap.gravityzone.bitdefender.com
+[cloud-ecs.gravityzone.bitdefender.com]
+[cloudgz-ecs.gravityzone.bitdefender.com]
+[cloudap-ecs.gravityzone.bitdefender.com]
+[eu-lurker-input.gravityzone.bitdefender.com]
+[us-lurker-input.gravityzone.bitdefender.com]
+[ap-lurker-input.gravityzone.bitdefender.com]
+nimbus.bitdefender.net
+[mclb-gcp.nimbus.bitdefender.net]
+eu.nimbus.bitdefender.net
+us.nimbus.bitdefender.net
+[elb-fra-gcp.nimbus.bitdefender.net]
+[elb-lon-gcp.nimbus.bitdefender.net]
+[elb-nvi-gcp.nimbus.bitdefender.net]
+[elb-ore-gcp.nimbus.bitdefender.net]
+[elb-iow-gcp.nimbus.bitdefender.net]
+[elb-tky-gcp.nimbus.bitdefender.net]
+[update-cloud.2d585.cdn.bitdefender.net]
+[ingestors-eu.bmdr.bitdefender.com]
+[ingestors-us.bmdr.bitdefender.com]
+[ingestors-ap.bmdr.bitdefender.com]
+[sandbox-portal.gravityzone.bitdefender.com]
+upgrade.bitdefender.com
+download.bitdefender.com
+
+
+Portas: 80/443 TCP
+
+Obs: As url's precisam ser inseridas com o sinal "[url]".
